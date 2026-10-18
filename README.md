@@ -2,4 +2,4 @@
 
 
 # My Python code editor
-Working on it...
+Just for fun
